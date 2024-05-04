@@ -1,0 +1,29 @@
+/* Write your code here. */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bgContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.GalleryContainer {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  padding: 4rem 0;
+}
+.mainImg {
+  width: 100%;
+  height: 30%;
+  align-self: center;
+}
+.GalleryImages {
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+}

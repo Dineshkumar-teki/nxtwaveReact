@@ -1,0 +1,17 @@
+/* Write your code here. */
+.img {
+  width: 100%;
+  border-radius: 10px;
+  opacity: 0.5;
+}
+.activeClassItem {
+  opacity: 1;
+}
+li{
+  background-color: transparent;
+}
+button{
+  background-color: transparent;
+  border: 0 solid;
+  
+}
